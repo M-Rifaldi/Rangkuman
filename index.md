@@ -5,7 +5,7 @@
 ### Jaringan Seluler
 Prinsip Jaringan seluler:
 
-•Teknologi utama yang dipakai pada mobile phone dan jaringan nirkabel
+•Teknologi utama yang dipakai pada mobile phone dan jaringan nirkabel.
 •Menggantikan sistem transmiter/receiver dengan kebutuhan daya besar
 Seluler menggunakan perangkat dengan daya rendah
 Jangkauan transmisi lebih pendek
@@ -13,14 +13,14 @@ Lebih banyak transmitter.
 
 Generasi jaringan seluler terdiri dari :
 
--1G : AMPS (Advanced Mobile Phone Service)
--2G : GSM (Global System for Mobile Communication)
--2.5G : GPRS (General Packet Radio Services)
--2.75G : EDGE (Enhanced Data rates for GSM Evolution)
--3G : EVDO (Evolution Data Optimized)
--3.5G : HSDPA (High Speed Downlink Packet Access)
--3.75G : HSUPA (High Speed Uplink Packet Access)
--4G LTE (Long Term Evolution)
+-1G : AMPS (Advanced Mobile Phone Service).
+-2G : GSM (Global System for Mobile Communication).
+-2.5G : GPRS (General Packet Radio Services).
+-2.75G : EDGE (Enhanced Data rates for GSM Evolution).
+-3G : EVDO (Evolution Data Optimized).
+-3.5G : HSDPA (High Speed Downlink Packet Access).
+-3.75G : HSUPA (High Speed Uplink Packet Access).
+-4G LTE (Long Term Evolution).
 
 ## Pertemuan ke-9
 
@@ -32,23 +32,23 @@ Kelebihan GSM :
 
 •Penyebaran jaringan yang luas hingga ke pelosok.
 •Bebas dari Roaming.
-•Harga bagi konsumen relatif murah
+•Harga bagi konsumen relatif murah.
 
 Kekurangan GSM :
 
-•Keamanan data yang kurang baik
+•Keamanan data yang kurang baik.
 •Penggunaan timeslot, yang membuat terkadang jaringan sering mengalami gangguan.
 
 ## Pertemuan ke-10
 
-### CDMA (Code Division Multiple Access)
+### CDMA (Code Division Multiple Access).
 CDMA (code division multiple access) adalah teknologi akses jamak dimana masing-masing user menggunakan code yang unik dalam mengakses kanal yang terdapat dalam sistem. 
 
 Sistem komunikasi CDMA ini mempunya spesifikasi sebagai berikut :
 
-•Bandwidth : 1.25 MHz
-•Frek Uplink : 869 – 894 MHz atau 1930 – 1990 MHz
-•Free Downlink : 824 – 894 MHz atau 1850 – 1910 MHz
+•Bandwidth : 1.25 MHz.
+•Frek Uplink : 869 – 894 MHz atau 1930 – 1990 MHz.
+•Free Downlink : 824 – 894 MHz atau 1850 – 1910 MHz.
 
 Kelebihan CDMA :
 
@@ -75,12 +75,12 @@ Posisi satelit pada orbitnya ada tiga macam, yaitu :
 
 Jenis-Jenis Satelit:
 
-•Satelit astronomi
-•Satelit Navigasi
-•Satelit Komunikasi
-•Satelit pengamat bumi
-•Satelit Cuaca
-•Satelit Mata-mata
+•Satelit astronomi.
+•Satelit Navigasi.
+•Satelit Komunikasi.
+•Satelit pengamat bumi.
+•Satelit Cuaca.
+•Satelit Mata-mata.
 
 ## Pertemuan ke-12
 
@@ -111,7 +111,7 @@ WIMAX adalah singkatan dari Worldwide Interoperability for Microwave Access, mer
 WiMAX merupakan penggabungan antara 2 standard: 
 
 •IEEE 802.16 (Institute of Electrical and Electronics Engineering)  
-Digunakan secara luas di negeri asalnya : Amerika
+Digunakan secara luas di negeri asalnya : Amerika.
 •ETSI HiperMAN (European Telecommunicatons Standards Institute HiperMAN)
 Digunakan secara luas di Eropa dan sekitarnya.
 
@@ -132,42 +132,42 @@ Antena adalah konduktor elektrik yang berfungsi untuk :
 
 Secara garis besar, antena dapat dibagi jadi dua jenis berdasarkan arah radiasi :
 
-•Omnidirectional : radiasi ke segala arah
-•Directional : radiasi ke arah tertentu
+•Omnidirectional : radiasi ke segala arah.
+•Directional : radiasi ke arah tertentu.
 
 Jenis Antena :
 
-•Isotropic Antena
-•Antena Dipole
-•Antena Monopole
-•Antena Yagi
-•Antena Parabolic
-•Antena Gain
+•Isotropic Antena.
+•Antena Dipole.
+•Antena Monopole.
+•Antena Yagi.
+•Antena Parabolic.
+•Antena Gain.
 
 ### Model Propagasi
 Ground Wave Propagation
 
-•Propagasi mengikuti kontur bumi
-•Sinyal dapat dipropagasikan untuk jarak yang jauh
-•Untuk frekuensi di bawah 2 MHz
-•Contoh : AM radio
+•Propagasi mengikuti kontur bumi.
+•Sinyal dapat dipropagasikan untuk jarak yang jauh.
+•Untuk frekuensi di bawah 2 MHz.
+•Contoh : AM radio.
 
 Sky Wave Propagation
 
-•Sinyal dipantulkan dari lapisan terionisasi pada atmosfer ke bumi
-•Sinyal dapat berjalan melewati beberapa hop, memantul antara ionosfer dan permukaan bumi
-•Efek pemantulan diakibatkan oleh refraction
+•Sinyal dipantulkan dari lapisan terionisasi pada atmosfer ke bumi.
+•Sinyal dapat berjalan melewati beberapa hop, memantul antara ionosfer dan permukaan bumi.
+•Efek pemantulan diakibatkan oleh refraction.
 •Contoh :
 
--Amateur radio
--CB radio
+-Amateur radio.
+-CB radio.
 
 Line-of-Sight Propagation
 
-•Antena transmitter dan receiver harus berada pada posisi Line of Sight (LOS)
+•Antena transmitter dan receiver harus berada pada posisi Line of Sight (LOS).
 -Komunikasi satelit: sinyal di atas 30 MHz tidak dipantulkan oleh ionosphere.
 -Komunikasi pada ground: antar antena pada effective line of site karena refraction.
-•Refraction – pembelokan microwaves oleh atmosphere
+•Refraction – pembelokan microwaves oleh atmosphere.
 -Kecepatan gelombang electromagnetic adalah fungsi kepadatan medium medium.
 -Kecepatan 3x108 adalah kecepatan cahaya pada ruang hampa.
 -Ketika gelombang berpindah medium, kecepatan berubah.
