@@ -32,3 +32,25 @@ Kelebihan GSM :
 Kekurangan GSM :
 •Keamanan data yang kurang baik
 •Penggunaan timeslot, yang membuat terkadang jaringan sering mengalami gangguan.
+
+##Pertemuan ke-10
+###CDMA (Code Division Multiple Access)
+CDMA (code division multiple access) adalah teknologi akses jamak dimana masing-masing user menggunakan code yang unik dalam mengakses kanal yang terdapat dalam sistem. 
+
+Sistem komunikasi CDMA ini mempunya spesifikasi sebagai berikut :
+•Bandwidth : 1.25 MHz
+•Frek Uplink : 869 – 894 MHz atau 1930 – 1990 MHz
+•Free Downlink : 824 – 894 MHz atau 1850 – 1910 MHz
+
+Kelebihan CDMA :
+•Menggunakan metode enkripsi dengan code unik untuk proses komunikasi, sehingga lebih aman.
+•Memiliki harga yang jauh lebih murah dibandingkan GSM.
+•Penggunanya yang tidak sebanyak GSM, membuat akses data menjadi lebih cepat.
+
+Kekurangan CDMA :
+•Masih ada beberapa operator CDMA yang mengalami roaming.
+•Kompatibiltas handheld yang terbatas.
+•Coverage area yang tidak seluas GSM.
+
+##Pertemuan ke-11
+###
