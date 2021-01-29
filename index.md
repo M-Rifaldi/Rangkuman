@@ -70,4 +70,37 @@ Jenis-Jenis Satelit:
 •Satelit Mata-mata
 
 ##Pertemuan ke-12
-###
+###Satelit Global Positioning System (GPS) 
+GPS adalah sistem yang memungkinkan kita menentukan lokasi secara akurat menggunakan satelit.
+
+Kemampuan GPS:
+•GPS dapat memberikan informasi tentang posisi, kecepatan, dan waktu secara cepat, akurat, murah, dimana saja di bumi ini pada setiap saat tanpa tergantung cuaca.
+
+Fungsi GPS :
+Untuk menentukan letak di permukaan bumi dengan bantuan sinkronisasi sinyal satelit yang mengirimkan sinyal gelombang mikro ke Bumi , sehingga dapat digunakan untuk menentukan kecepatan, arah, letak, dan waktu.
+
+Jenis-jenis GPS :
+•GPS untuk Militer.
+•GPS untuk Navigasi.
+•GPS untuk Sistem informasi geografis.
+•GPS untuk Sistem Pelacakan Kendaraan.
+•GPS untuk pemantau gempa.
+
+##Pertemuan ke-13
+###WIMAX
+WIMAX adalah singkatan dari Worldwide Interoperability for Microwave Access, merupakan teknologi akses nirkabel pita lebar (broadband wireless access atau disingkat BWA) yang memiliki kecepatan akses yang tinggi dengan jangkauan yang luas.
+
+WiMAX merupakan penggabungan antara 2 standard: 
+•IEEE 802.16 (Institute of Electrical and Electronics Engineering)  
+Digunakan secara luas di negeri asalnya : Amerika
+•ETSI HiperMAN (European Telecommunicatons Standards Institute HiperMAN)
+Digunakan secara luas di Eropa dan sekitarnya.
+
+Manfaat dan keuntungan WIMAX :
+•WiMAX dapat melayani pelanggannya dengan area yang lebih luas dan tingkat kompatibilitas lebih tinggi. 
+•Dapat melayani baik para pengguna dengan antena tetap (fixed wireless) misalnya di gedung-gedung perkantoran, rumah tinggal, toko-toko, dan sebagainya, maupun yang sering berpindah-pindah tempat atau perangkat mobile lainnya. 
+
+##Pertemuan ke-14
+###Antena dan Propagasi
+
+
