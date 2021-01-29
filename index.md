@@ -53,4 +53,21 @@ Kekurangan CDMA :
 •Coverage area yang tidak seluas GSM.
 
 ##Pertemuan ke-11
+###Satelit
+Satelit merupakan sebuah benda di angkasa yang berputar mengikuti rotasi bumi. Satelit dapat dibedakan berdasarkan bentuk dan keguaananya seperti: satelit cuaca, satelit komonikasi, satelit iptek dan satelit militer.
+
+Posisi satelit pada orbitnya ada tiga macam, yaitu :
+•Low Earth Orbit (LEO): 500-2.000 km di atas permukaan bumi.
+•Medium Earth Orbit (MEO): 8.000-20.000 km di atas permukaan bumi.
+•Geosynchronous Orbit (GEO): 35.786 km di atas permukaan bumi.
+
+Jenis-Jenis Satelit:
+•Satelit astronomi
+•Satelit Navigasi
+•Satelit Komunikasi
+•Satelit pengamat bumi
+•Satelit Cuaca
+•Satelit Mata-mata
+
+##Pertemuan ke-12
 ###
