@@ -20,6 +20,15 @@ Generasi jaringan seluler terdiri dari :
 -4G LTE (Long Term Evolution)
 
 ##Pertemuan ke-9
-###
+###GSM (Global System for Mobile Communication) 
+GSM merupakan sebuah teknologi komunikasi selular yang bersifat digital. 
+Teknologi GSM banyak diterapkan pada mobile communication, khususnya handphone. Teknologi ini memanfaatkan gelombang mikro dan pengiriman sinyal yang dibagi berdasarkan waktu, sehingga sinyal informasi yang dikirim akan sampai pada tujuan.
 
+Kelebihan GSM :
+•Penyebaran jaringan yang luas hingga ke pelosok.
+•Bebas dari Roaming.
+•Harga bagi konsumen relatif murah
 
+Kekurangan GSM :
+•Keamanan data yang kurang baik
+•Penggunaan timeslot, yang membuat terkadang jaringan sering mengalami gangguan.
