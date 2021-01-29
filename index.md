@@ -1,7 +1,8 @@
-#Rangkuman
+# Rangkuman
 
-##Pertemuan ke-8
-###Jaringan Seluler
+## Pertemuan ke-8
+
+### Jaringan Seluler
 Prinsip Jaringan seluler:
 •Teknologi utama yang dipakai pada mobile phone dan jaringan nirkabel
 •Menggantikan sistem transmiter/receiver dengan kebutuhan daya besar
@@ -19,8 +20,9 @@ Generasi jaringan seluler terdiri dari :
 -3.75G : HSUPA (High Speed Uplink Packet Access)
 -4G LTE (Long Term Evolution)
 
-##Pertemuan ke-9
-###GSM (Global System for Mobile Communication) 
+## Pertemuan ke-9
+
+### GSM (Global System for Mobile Communication) 
 GSM merupakan sebuah teknologi komunikasi selular yang bersifat digital. 
 Teknologi GSM banyak diterapkan pada mobile communication, khususnya handphone. Teknologi ini memanfaatkan gelombang mikro dan pengiriman sinyal yang dibagi berdasarkan waktu, sehingga sinyal informasi yang dikirim akan sampai pada tujuan.
 
@@ -33,8 +35,9 @@ Kekurangan GSM :
 •Keamanan data yang kurang baik
 •Penggunaan timeslot, yang membuat terkadang jaringan sering mengalami gangguan.
 
-##Pertemuan ke-10
-###CDMA (Code Division Multiple Access)
+## Pertemuan ke-10
+
+### CDMA (Code Division Multiple Access)
 CDMA (code division multiple access) adalah teknologi akses jamak dimana masing-masing user menggunakan code yang unik dalam mengakses kanal yang terdapat dalam sistem. 
 
 Sistem komunikasi CDMA ini mempunya spesifikasi sebagai berikut :
@@ -52,8 +55,9 @@ Kekurangan CDMA :
 •Kompatibiltas handheld yang terbatas.
 •Coverage area yang tidak seluas GSM.
 
-##Pertemuan ke-11
-###Satelit
+## Pertemuan ke-11
+
+### Satelit
 Satelit merupakan sebuah benda di angkasa yang berputar mengikuti rotasi bumi. Satelit dapat dibedakan berdasarkan bentuk dan keguaananya seperti: satelit cuaca, satelit komonikasi, satelit iptek dan satelit militer.
 
 Posisi satelit pada orbitnya ada tiga macam, yaitu :
@@ -69,8 +73,9 @@ Jenis-Jenis Satelit:
 •Satelit Cuaca
 •Satelit Mata-mata
 
-##Pertemuan ke-12
-###Satelit Global Positioning System (GPS) 
+## Pertemuan ke-12
+
+### Satelit Global Positioning System (GPS) 
 GPS adalah sistem yang memungkinkan kita menentukan lokasi secara akurat menggunakan satelit.
 
 Kemampuan GPS:
@@ -86,8 +91,9 @@ Jenis-jenis GPS :
 •GPS untuk Sistem Pelacakan Kendaraan.
 •GPS untuk pemantau gempa.
 
-##Pertemuan ke-13
-###WIMAX
+## Pertemuan ke-13
+
+### WIMAX
 WIMAX adalah singkatan dari Worldwide Interoperability for Microwave Access, merupakan teknologi akses nirkabel pita lebar (broadband wireless access atau disingkat BWA) yang memiliki kecepatan akses yang tinggi dengan jangkauan yang luas.
 
 WiMAX merupakan penggabungan antara 2 standard: 
@@ -100,9 +106,11 @@ Manfaat dan keuntungan WIMAX :
 •WiMAX dapat melayani pelanggannya dengan area yang lebih luas dan tingkat kompatibilitas lebih tinggi. 
 •Dapat melayani baik para pengguna dengan antena tetap (fixed wireless) misalnya di gedung-gedung perkantoran, rumah tinggal, toko-toko, dan sebagainya, maupun yang sering berpindah-pindah tempat atau perangkat mobile lainnya. 
 
-##Pertemuan ke-14
-###Antena dan Propagasi
-###Antena
+## Pertemuan ke-14
+
+### Antena dan Propagasi
+
+### Antena
 Antena adalah konduktor elektrik yang berfungsi untuk :
 •Transmisi (Transmission) : Meradiasikan energi elektromagnetik ke ruang bebas/space.
 •Penerimaan (Reception) : Mengumpulkan/menerima energi elektromagnetik dari ruang bebas/space.
@@ -119,7 +127,7 @@ Jenis Antena :
 •Antena Parabolic
 •Antena Gain
 
-###Model Propagasi
+### Model Propagasi
 Ground Wave Propagation
 •Propagasi mengikuti kontur bumi
 •Sinyal dapat dipropagasikan untuk jarak yang jauh
