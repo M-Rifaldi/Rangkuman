@@ -102,5 +102,46 @@ Manfaat dan keuntungan WIMAX :
 
 ##Pertemuan ke-14
 ###Antena dan Propagasi
+###Antena
+Antena adalah konduktor elektrik yang berfungsi untuk :
+•Transmisi (Transmission) : Meradiasikan energi elektromagnetik ke ruang bebas/space.
+•Penerimaan (Reception) : Mengumpulkan/menerima energi elektromagnetik dari ruang bebas/space.
+
+Secara garis besar, antena dapat dibagi jadi dua jenis berdasarkan arah radiasi :
+•Omnidirectional : radiasi ke segala arah
+•Directional : radiasi ke arah tertentu
+
+Jenis Antena :
+•Isotropic Antena
+•Antena Dipole
+•Antena Monopole
+•Antena Yagi
+•Antena Parabolic
+•Antena Gain
+
+###Model Propagasi
+Ground Wave Propagation
+•Propagasi mengikuti kontur bumi
+•Sinyal dapat dipropagasikan untuk jarak yang jauh
+•Untuk frekuensi di bawah 2 MHz
+•Contoh : AM radio
+
+Sky Wave Propagation
+•Sinyal dipantulkan dari lapisan terionisasi pada atmosfer ke bumi
+•Sinyal dapat berjalan melewati beberapa hop, memantul antara ionosfer dan permukaan bumi
+•Efek pemantulan diakibatkan oleh refraction
+•Contoh :
+-Amateur radio
+-CB radio
+
+Line-of-Sight Propagation
+•Antena transmitter dan receiver harus berada pada posisi Line of Sight (LOS)
+-Komunikasi satelit: sinyal di atas 30 MHz tidak dipantulkan oleh ionosphere.
+-Komunikasi pada ground: antar antena pada effective line of site karena refraction.
+•Refraction – pembelokan microwaves oleh atmosphere
+-Kecepatan gelombang electromagnetic adalah fungsi kepadatan medium medium.
+-Kecepatan 3x108 adalah kecepatan cahaya pada ruang hampa.
+-Ketika gelombang berpindah medium, kecepatan berubah.
+-Gelombang dibelokkan pada batas antara dua medium.
 
 
